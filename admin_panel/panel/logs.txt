@@ -1,0 +1,5 @@
+[2022-01-10 15:57:32] User id1056117307 was authorized as MAIN ADMIN
+[2022-01-10 15:57:32] Updating usernames is turn off
+[2022-01-10 15:57:32] Updating activity is turn off
+[2022-01-10 15:57:32] @mamagazin_bot has been started
+==============================================================================
