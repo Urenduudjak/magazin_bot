@@ -3,8 +3,8 @@ import configparser
 
 config = configparser.ConfigParser()
 config.read("settings.ini")
-BOT_TOKEN = "5002208511:AAGxAD23LWrpHAwIf2v06J6u8j9Acxxhuzs"
-main_admin = "1056117307"
+BOT_TOKEN = ""
+main_admin = ""
 
 bot_version = "2.9"
 bot_description = f"<b>♻ Bot created by @djimbox</b>\n" \
